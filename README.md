@@ -15,3 +15,6 @@ Custom Presets: Save and switch between profiles for different headphones, speak
 Low Latency: Optimized for performance to ensure your audio stays perfectly in sync.
 
 System-Wide Integration: Works seamlessly with your existing Linux audio backend (PulseAudio/PipeWire).
+
+#DOWNLOAD LINK IS - https://drive.google.com/file/d/18ofPiv53aZU1RrtI-638JN0KshLOZXyU/view?usp=sharing
+<img width="1680" height="1050" alt="Screenshot_2025-12-28_21-50-12" src="https://github.com/user-attachments/assets/7f09ab6c-076f-4b2d-9e9e-62851460c5b3" />
